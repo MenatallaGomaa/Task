@@ -19,8 +19,8 @@ body {
 
 /* Product Image */
 .product-image {
-  width: 100%;
-  max-width: 300px;
+  width: 50%;
+  max-width: 100px;
   margin: 20px 0;
 }
 
